@@ -1,3 +1,3 @@
-# Covid-19 County Level Trends
+# COVID-19 Analysis 
 
-Based on time series data made publicly available by the New York Times. 
+Tools for performing analysis of COVID-19 trends. Currently focused on integration of SafeGraph data with Census data.
